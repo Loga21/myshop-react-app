@@ -17,7 +17,7 @@ const HomePage = () => {
   const policies = [
     {
       id: 1,
-      title: 'FREE SHIPPING & RETURN',
+      title: 'FREE SHIPPING &  RETURN',
       desc: 'Free shipping on all orders over RS.499',
       icon: <FontAwesomeIcon icon='fa-solid fa-truck' />
     },
