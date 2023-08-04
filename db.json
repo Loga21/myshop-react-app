@@ -1,0 +1,574 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blazer",
+      "description": "Blazer is a fashion technique that is utilized by dressing many garments that are worn on top of each other. Flexible clothing can be worn to suit the requirements of each situation by adding or removing layers, or by changing one layer and leaving the others.",
+      "imageUrl": "./assets/images/img-1.jpg",
+      "thumbnailUrl": "./assets/images/img-1.jpg",
+      "maxRetailPrice": 1230,
+      "category": "Men",
+      "discountApplicable": 24,
+      "added": "4/9/2021",
+      "quantity": 3,
+      "bestSellerRanking": 1,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Ravi",
+          "phone": "35346374323",
+          "email": "ravi@gmail.com",
+          "rating": 2,
+          "review": "Nice one!"
+        },
+        {
+          "name": "Ronaldo",
+          "phone": "56298692087",
+          "email": "ronaldo@gmail.com",
+          "rating": 3,
+          "review": "Nice blazer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Western Top",
+      "description": "A Western shirt is a traditional item of Western wear characterized by a stylized yoke on the front and on the back. It is generally constructed of chambray, denim or tartan fabric with long sleeves, and in modern form is sometimes seen with snap pockets, patches made from bandana fabric, and fringe.",
+      "imageUrl": "./assets/images/img-2.jpg",
+      "thumbnailUrl": "./assets/images/img-2.jpg",
+      "maxRetailPrice": 999,
+      "category": "Women",
+      "discountApplicable": 33,
+      "added": "4/9/2021",
+      "quantity": 5,
+      "bestSellerRanking": 2,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Neela",
+          "phone": "579357029702",
+          "email": "neela@gmail.com",
+          "rating": 1,
+          "review": "Wow"
+        },
+        {
+          "name": "Nila",
+          "phone": "634985798988",
+          "email": "nila@gmail.com",
+          "rating": 3,
+          "review": "Good"
+        },
+        {
+          "name": "Pooja",
+          "phone": "96593846394",
+          "email": "pooja@gmail.com",
+          "rating": 2,
+          "review": "Nice top!"
+        },
+        {
+          "name": "arun",
+          "phone": "9870678902",
+          "email": "arun@gmail.com",
+          "rating": 4,
+          "review": "awesome"
+        },
+        {
+          "name": "dq",
+          "phone": "9870670089",
+          "email": "dq@gmail.com",
+          "rating": 4,
+          "review": "awesome"
+        },
+        {
+          "name": "arun",
+          "phone": "9870678902",
+          "email": "dq@gmail.com",
+          "rating": 4,
+          "review": "ok"
+        },
+        {
+          "name": "giri",
+          "phone": "9870678900",
+          "email": "giri12@gmail.com",
+          "rating": 4,
+          "review": "awsome"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kids Wear",
+      "description": "Kids wear has a lot of variety which includes kids fashion clothing, kids nightwear, kids readymade garments, kids rompers, kids tops, kids knitted wear, kids Kurtas and brands such as Little Kangaroos, Baby hug, Palm Tree, Cucumber, ToffyHouse, Mother care, Fox baby, UCB and much more.",
+      "imageUrl": "./assets/images/img-3.jpg",
+      "thumbnailUrl": "./assets/images/img-3.jpg",
+      "maxRetailPrice": 600,
+      "category": "Kids",
+      "discountApplicable": 24,
+      "added": "4/9/2021",
+      "quantity": 8,
+      "bestSellerRanking": 3,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Vishwa",
+          "phone": "75934793703",
+          "email": "vishwa@gmail.com",
+          "rating": 2,
+          "review": "Nice one!"
+        },
+        {
+          "name": "Reena",
+          "phone": "328782692892",
+          "email": "reena@gmail.com",
+          "rating": 2,
+          "review": "Good"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kurti",
+      "description": "A Kurti coupled with palazzo pants is a typical and most common instance of Indo-western attire. New Indo-western Kurtis frequently features sleeveless tops, sheer dupattas, and slit pants. Other examples include Kurtis that have an open front look, skirts coupled with Kurti tops, and more.",
+      "imageUrl": "./assets/images/img-4.jpeg",
+      "thumbnailUrl": "./assets/images/img-4.jpeg",
+      "maxRetailPrice": 2400,
+      "category": "Women",
+      "discountApplicable": 35,
+      "added": "4/9/2021",
+      "quantity": 1,
+      "bestSellerRanking": 4,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Loga",
+          "phone": "7370347073",
+          "email": "loga@gmail.com",
+          "rating": 5,
+          "review": "Nice dress"
+        },
+        {
+          "name": "Lachu",
+          "phone": "5775947020",
+          "email": "lachu@gmail.com",
+          "rating": 3,
+          "review": "Superb one"
+        },
+        {
+          "name": "Ajay",
+          "phone": "7632686846",
+          "email": "ajay@gmail.com",
+          "rating": 4,
+          "review": "Wow awesome!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sherwani",
+      "description": "Sherwani is a long-sleeved outer coat worn by men in South Asia. Like the Western frock coat it is fitted, with some waist suppression; it falls to below the knees and is buttoned down the front. It can be collarless, have a shirt-style collar, or a stand-up collar in the style of the Mandarin collar.",
+      "imageUrl": "./assets/images/img-5.webp",
+      "thumbnailUrl": "./assets/images/img-5.webp",
+      "maxRetailPrice": 2500,
+      "category": "Men",
+      "discountApplicable": 7,
+      "added": "4/9/2021",
+      "quantity": 12,
+      "bestSellerRanking": 5,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Dinesh",
+          "phone": "8472397021",
+          "email": "Dinesh@gmail.com",
+          "rating": 4,
+          "review": "Very Nice"
+        },
+        {
+          "name": "Suriya",
+          "phone": "398720793",
+          "email": "suriya@gmail.com",
+          "rating": 5,
+          "review": "Superb product!"
+        },
+        {
+          "name": "Vijay",
+          "phone": "09493737230",
+          "email": "vijay@gmail.com",
+          "rating": 2,
+          "review": "Nice one"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Trendy Wear",
+      "description": "A Trendy Wear (also spelled tee-shirt or tee shirt), or tee for short, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar.",
+      "imageUrl": "./assets/images/img-6.jpg",
+      "thumbnailUrl": "./assets/images/img-6.jpg",
+      "maxRetailPrice": 1700,
+      "category": "Men",
+      "discountApplicable": 33,
+      "added": "4/9/2021",
+      "quantity": 4,
+      "bestSellerRanking": 6,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Ravi",
+          "phone": "70493740290",
+          "email": "ravi@gmail.com",
+          "rating": 3,
+          "review": "Nice attire!"
+        },
+        {
+          "name": "Salman",
+          "phone": "572658629502",
+          "email": "salman@gmail.com",
+          "rating": 3,
+          "review": "Nice suit"
+        },
+        {
+          "name": "Vijay",
+          "phone": "95639876306",
+          "email": "vijay@gmail.com",
+          "rating": 1,
+          "review": "mass"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "T-shirt",
+      "description": "A T-shirt (also spelled tee-shirt or tee shirt), or tee for short, is a style of fabric shirt named after the T shape of its body and sleeves. Traditionally, it has short sleeves and a round neckline, known as a crew neck, which lacks a collar.",
+      "imageUrl": "./assets/images/img-7.webp",
+      "thumbnailUrl": "./assets/images/img-7.webp",
+      "maxRetailPrice": 750,
+      "category": "Kids",
+      "discountApplicable": 21,
+      "added": "4/9/2021",
+      "quantity": 11,
+      "bestSellerRanking": 7,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Ashwin",
+          "phone": "35346374323",
+          "email": "Ash@1.com",
+          "rating": 3,
+          "review": "Nice Tee!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Gown",
+      "description": "A gown is a formal dress. When your date to a party or dance is wearing a tuxedo, you'll probably want to wear a gown.There are many different kinds of gowns, including ball gowns, wedding gowns, and evening gowns. All of them are worn primarily by women on formal occasions.",
+      "imageUrl": "./assets/images/img-8.jpg",
+      "thumbnailUrl": "./assets/images/img-8.jpg",
+      "maxRetailPrice": 4300,
+      "category": "Women",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 13,
+      "bestSellerRanking": 22,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Amala",
+          "phone": "566592950",
+          "email": "amala@gmail.com",
+          "rating": 2,
+          "review": "Nice gown"
+        },
+        {
+          "name": "Vaishu",
+          "phone": "658460960",
+          "email": "vaishu@gmail.com",
+          "rating": 1,
+          "review": "Superb!"
+        },
+        {
+          "name": "Padma",
+          "phone": "39430930300",
+          "email": "padma@gmail.com",
+          "rating": 1,
+          "review": "Amazing gown"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Denim Shirt",
+      "description": "Denim usually refers to a cotton twill fabric, meaning it has a diagonal weave made up of two threads in one direction (the weft) passing under two or more warp threads, though the diagonal appearance of the twill is quite subtle.",
+      "imageUrl": "./assets/images/img-9.jpg",
+      "thumbnailUrl": "./assets/images/img-9.jpg",
+      "maxRetailPrice": 1200,
+      "category": "Kids",
+      "discountApplicable": 30,
+      "added": "4/9/2021",
+      "quantity": 5,
+      "bestSellerRanking": 9,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Muthu",
+          "phone": "94725702570",
+          "email": "mutu@gmail.com",
+          "rating": 2,
+          "review": "Worthy products!"
+        },
+        {
+          "name": "Arjun",
+          "phone": "6528569260",
+          "email": "arjun@gmail.com",
+          "rating": 1,
+          "review": "Worst product🤦‍♀️"
+        },
+        {
+          "name": "Hari",
+          "phone": "593987030",
+          "email": "hari@gmail.com",
+          "rating": 2,
+          "review": "Nice jean"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Saree",
+      "description": "A saree is a formal dress. When your date to a party or dance is wearing a tuxedo, you'll probably want to wear a saree.There are many different kinds of saree, including ball saree, wedding saree, and evening saree. All of them are worn primarily by women on formal occasions.",
+      "imageUrl": "./assets/images/img-10.jpg",
+      "thumbnailUrl": "./assets/images/img-10.jpg",
+      "maxRetailPrice": 1000,
+      "category": "Women",
+      "discountApplicable": 19,
+      "added": "4/9/2021",
+      "quantity": 1,
+      "bestSellerRanking": 10,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Priyanka",
+          "phone": "6264987986",
+          "email": "priyanka@gmail.com",
+          "rating": 3,
+          "review": "Nice saree"
+        },
+        {
+          "name": "GG",
+          "phone": "70397368679",
+          "email": "gg@gg.com",
+          "rating": 1,
+          "review": "Wow!"
+        },
+        {
+          "name": "Loga",
+          "phone": "6592865260",
+          "email": "loga@gmail.com",
+          "rating": 4,
+          "review": "Nice saree"
+        },
+        {
+          "name": "Prabha",
+          "phone": "659859200205",
+          "email": "prabha@gmail.com",
+          "rating": 5,
+          "review": "Lovely!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Party Wear",
+      "description": "A party dress is a dress worn especially for a party. Different types of party such as children's party, cocktail party, garden party and costume party would tend to require different styles of dress. One classic style of party dress for women in modern society is the little black dress.",
+      "imageUrl": "./assets/images/img-11.jpg",
+      "thumbnailUrl": "./assets/images/img-11.jpg",
+      "maxRetailPrice": 770,
+      "category": "Men",
+      "discountApplicable": 14,
+      "added": "4/9/2021",
+      "quantity": 9,
+      "bestSellerRanking": 11,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Praveen",
+          "phone": "6249426990",
+          "email": "praveen@gmail.com",
+          "rating": 4,
+          "review": "Nice one!"
+        },
+        {
+          "name": "Guru",
+          "phone": "7698426020",
+          "email": "guru@gamil.com",
+          "rating": 4,
+          "review": "Nice"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Kids Combo Wear",
+      "description": "Kids wear has a lot of variety which includes kids fashion clothing, kids nightwear, kids readymade garments, kids rompers, kids tops, kids knitted wear, kids Kurtas and brands such as Little Kangaroos, Baby hug, Palm Tree, Cucumber, ToffyHouse, Mother care, Fox baby, UCB and much more.",
+      "imageUrl": "./assets/images/img-12.jpg",
+      "thumbnailUrl": "./assets/images/img-12.jpg",
+      "maxRetailPrice": 1850,
+      "category": "Kids",
+      "discountApplicable": 18,
+      "added": "4/9/2021",
+      "quantity": 2,
+      "bestSellerRanking": 12,
+      "featured": true,
+      "reviews": [
+        {
+          "name": "Ashwin",
+          "phone": "35346374323",
+          "email": "Ash@1.com",
+          "rating": 4,
+          "review": "Good Product!"
+        },
+        {
+          "name": "Kumar",
+          "phone": "47839020101",
+          "email": "kumar@gmail.com",
+          "rating": 0,
+          "review": "Nice dress"
+        },
+        {
+          "name": "Avesh",
+          "phone": "9704970809",
+          "email": "avesh@gmail.com",
+          "rating": 1,
+          "review": "Superb!"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 101,
+      "name": "Men"
+    },
+    {
+      "id": 102,
+      "name": "Women"
+    },
+    {
+      "id": 103,
+      "name": "Kids"
+    }
+  ],
+  "contactData": {
+    "address": "280 Park Avenue Z, Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "message": "Awesome website",
+      "id": 1
+    },
+    {
+      "name": "bss rbr ",
+      "email": "rgebe@df.com",
+      "message": "vsd vsdzv sd",
+      "id": 2
+    },
+    {
+      "name": "dsdfeada",
+      "email": "btbdevandqa@gmail.com",
+      "message": " c x xc ",
+      "id": 3
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, World!",
+      "id": 4
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, World!",
+      "id": 5
+    },
+    {
+      "name": "dsdfeada",
+      "email": "rgebe@df.com",
+      "message": "g4weavgwe4g",
+      "id": 6
+    },
+    {
+      "name": "dsdfeada",
+      "email": "abc@g.com",
+      "message": "yuryry",
+      "id": 7
+    },
+    {
+      "name": "bss rbr ",
+      "email": "btbdevandqa@gmail.com",
+      "message": "geew",
+      "id": 8
+    },
+    {
+      "name": "bss rbr ",
+      "email": "btbdevandqa@gmail.com",
+      "message": "dveagveza",
+      "id": 9
+    },
+    {
+      "name": "erger",
+      "email": "btbdevandqa@gmail.com",
+      "message": "hrww4",
+      "id": 10
+    },
+    {
+      "name": "dsdfeada",
+      "email": "rgebe@df.com",
+      "message": "feagvea",
+      "id": 11
+    },
+    {
+      "name": "bss rbr ",
+      "email": "abc@g.com",
+      "message": "gsgvsgr",
+      "id": 12
+    },
+    {
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "message": "hi",
+      "id": 13
+    },
+    {
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "message": "hello",
+      "id": 14
+    },
+    {
+      "name": "giri",
+      "email": "giri12@gmail.com",
+      "message": "oii",
+      "id": 15
+    },
+    {
+      "name": "lacchu",
+      "email": "lacchu@gmail.com",
+      "message": "thanks",
+      "id": 16
+    },
+    {
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "message": "hi",
+      "id": 17
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelmetSetup receives \`title\` as prop 1`] = `null`;
+
+exports[`Page Title receives \`title\` prop 1`] = `null`;

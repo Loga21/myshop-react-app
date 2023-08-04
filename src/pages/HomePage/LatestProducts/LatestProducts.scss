@@ -1,0 +1,26 @@
+// latest-products styling starts here 
+.latest-products-container {
+  border: 2px solid black;
+  background-image: url('https://wallpaperset.com/w/full/9/0/6/67494.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.latest-products-container h2 {
+  margin: 5px 0 10px -10px;
+  padding-left: 47px;
+}
+
+.product-card {
+  margin-left: 28px;
+  width: 355px;
+}
+
+.prod-title {
+  margin-right: -10px;
+}
+
+.card-btn {
+  width: 100%;
+}
+// latest-products styling ends here 

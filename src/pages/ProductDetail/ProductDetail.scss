@@ -1,0 +1,46 @@
+.product-detail {
+  line-height: 0.8;
+  color: rgb(110, 110, 110);
+  font-weight: bold;
+}
+.product-info{
+  margin-top: -8px;
+}
+.star-rating {
+  margin-top: -19px;
+}
+
+.review-btn {
+  margin-left: 250px;
+
+}
+
+.modal-title {
+  display: inline-flex;
+}
+
+.col-form-label {
+  font-weight: bold;
+}
+
+.model-head {
+  display: inline-flex;
+  margin-bottom: 2px;
+}
+
+.close-button {
+  display: flex;
+  float: right;
+  color: black;
+  font-size: large;
+  text-align: center;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  width: 27px;
+  border: none;
+}
+
+.close-button:hover {
+  background-color: rgb(250, 72, 72);
+}
